@@ -27,7 +27,6 @@
 25. How to use two databases for one application
 26. Rails engine
 27. Asset pipeline
-28. Closure in Ruby on Rails
 29. raise/rescue and throw/catch
 30. splat operator and double splat operator - (*) to pass arguments to a method but don’t want to specify how many arguments they are passing. Candidates may mention that there are two types of splat operators – the single splat (*) and the double splat (**).
 31. Types of associations
